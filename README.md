@@ -1,8 +1,8 @@
-# consumo_energia
+# ⚡ consumo_energia
 Cálculo do consumo de energia de um eledroméstico
 
-# Objetivo do projeto
+#  🎯 Objetivo do projeto
 
-# Tecnologias utilizadas
+#  🛠️ Tecnologias utilizadas
 
-# Como calcular
+# 🧮 Como calcular
