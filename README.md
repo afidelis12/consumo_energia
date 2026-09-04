@@ -1,4 +1,4 @@
-# ⛽ Calculadora de Gasto com Combustível
+# ⛽ 👨‍🔧 Calculadora de Gasto com Combustível
 
 Programa em Python desenvolvido como **exemplo de aula** para o curso introdutório de Programação — Etec Alberto Santos Dumont, Guarujá.
 
